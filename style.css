@@ -1,0 +1,35 @@
+.navbar-brand img {
+    width: 100px;
+    height: 40px;
+}
+
+.navbar #myMenu .custome-nav .nav-item a {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+.navbar #myMenu .custome-nav .nav-item a:hover {
+    color: white;
+}
+
+.back-image {
+    background-image: url("./images/body.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+}
+
+.custome-row {
+    padding-top: 30px;
+}
+
+.imcard {
+    width: 100px;
+    height: 100px;
+}
+
+.font-italic {
+    font-size: 20px;
+}
